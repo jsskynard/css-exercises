@@ -1,7 +1,7 @@
 .odd-number {
     color: black;
     background-color: darksalmon;
-    font-family: Verdana, DejaVu Sans, sans-serif
+    font-family: Verdana, "DejaVu Sans", sans-serif
 }
 
 #number-two {
@@ -10,7 +10,7 @@
 }
 
 #number-three {
-    font-size: 36px;
+    font-size: 24px;
 }
 
 #number-four {
